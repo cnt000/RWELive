@@ -1,0 +1,5 @@
+1) "Produci un elenco dettagliato dei file e cartelle per questa app RedwoodSDK edge-first."
+2) "Scrivi la documentazione tecnica per l’architettura edge di questa applicazione."
+3) "Genera pseudo-codice per ogni Durable Object specificato nel progetto."
+4) "Produci test suite per ogni endpoint OAuth, chat, plugin e live selection."
+5) "Rivedi questo codice per sicurezza SQL injection, XSS, CSRF e proponi fix."
